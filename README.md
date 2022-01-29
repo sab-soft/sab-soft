@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sab-soft
+- 👀 I’m interested in Artificial Intelligence (NLP)
+- 🌱 I’m currently learning CNN
+- 📫 How to reach me amakondisamuel@gmail.com
