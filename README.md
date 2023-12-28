@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sab-soft
+- 👋 Hi, I’m @Samuel Amakundi Bako
 - 👀 I’m interested in Artificial Intelligence (NLP)
-- 🌱 I’m currently learning CNN
+- 🌱 I’m currently diving into data engineering
 - 📫 How to reach me amakondisamuel@gmail.com
